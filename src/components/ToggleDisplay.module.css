@@ -1,0 +1,15 @@
+.text {
+  font-weight: bold;
+  color: red;
+}
+
+.button {
+  font-size: 1.2rem;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+}
+
+.open {
+  font-size: 3rem;
+}
